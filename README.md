@@ -1,9 +1,10 @@
 # Catculator
 
-iOs-like calculator. Including a furry friend with sleep deprivation
--a catastrophe-
+iOs-like calculator wıth sound effects. Includes a furry friend with sleep deprivation.
+<br />-a catastrophe-
 
 ![image](https://user-images.githubusercontent.com/40829087/205509276-da28c000-b5ae-4deb-8af5-e756cfe09f83.png)
 
-
-live server at: egekaplan.github.io/Catculator/ Meant to be previewed on iPhone
+<br />
+live server at: egekaplan.github.io/Catculator/ 
+<br />It is meant to be previewed on iPhones
