@@ -1,6 +1,6 @@
 # Catculator
 
-iOs-like calculator with sound effects. Includes a furry friend with sleep deprivation. 
+iOs-like calculator with sound effects. Includes a furry friend with sleep deprivation
 <br />-a catastrophe-
 <br />
 
@@ -9,4 +9,4 @@ iOs-like calculator with sound effects. Includes a furry friend with sleep depri
 <br />
 live server at: https://egekaplan.github.io/Catculator/ 
 <br />It is meant to be previewed on iPhones
-<br />Shoutout to my talented girlfriend Ecem for pixelated cat art.
+<br />Shoutout to my talented girlfriend Ecem for pixelated cat art
