@@ -1,6 +1,6 @@
 # Catculator
 
-iOs-like calculator with sound effects. Including a furry friend with sleep deprivation
+Calculator with sound effects. Including a furry friend with sleep deprivation
 <br />-a catastrophe-
 <br />
 
