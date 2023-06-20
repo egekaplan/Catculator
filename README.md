@@ -8,5 +8,5 @@ Calculator with sound effects. Including a furry friend with sleep deprivation
 
 <br />
 Try it out! https://egekaplan.github.io/Catculator/ 
-<br />It is meant to be previewed on iPhones
+<br />It is meant to be viewed on iPhones
 <br />Shoutout to my talented girlfriend Ecem for pixelated cat art
