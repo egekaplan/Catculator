@@ -120,47 +120,47 @@ clear.addEventListener('click', ()=>{
 })
 //7
 var cat1 = new Audio();
-cat1.src = "cat1.mp3";
+cat1.src = "soundfx/cat1.mp3";
 
 //8
 var cat2 = new Audio();
-cat2.src = "cat2.mp3";
+cat2.src = "soundfx/cat2.mp3";
 
 //9
 var cat3 = new Audio();
-cat3.src = "cat3.mp3";
+cat3.src = "soundfx/cat3.mp3";
 
 //4
 var cat4 = new Audio();
-cat4.src = "cat4.mp3";
+cat4.src = "soundfx/cat4.mp3";
 
 //5
 var cat5 = new Audio();
-cat5.src = "cat5.wav";
+cat5.src = "soundfx/cat5.wav";
 
 //6
 var cat6 = new Audio();
-cat6.src = "cat6.wav";
+cat6.src = "soundfx/cat6.wav";
 
 //1
 var cat7 = new Audio();
-cat7.src = "cat7.mp3";
+cat7.src = "soundfx/cat7.mp3";
 
 //2
 var cat8 = new Audio();
-cat8.src = "cat8.mp3";
+cat8.src = "soundfx/cat8.mp3";
 
 //3
 var cat9 = new Audio();
-cat9.src = "cat9.mp3";
+cat9.src = "soundfx/cat9.mp3";
 
 //operators
 var catPlay = new Audio();
-catPlay.src = "catPlay.mp3";
+catPlay.src = "soundfx/catPlay.mp3";
 
 //result
 var catResult = new Audio();
-catResult.src = "catResult.mp3";
+catResult.src = "soundfx/catResult.mp3";
 
 var images = document.querySelectorAll('.item');
 
@@ -169,22 +169,22 @@ for (var i = images.length; i--;) images[i].addEventListener('click', change);
 function change() {
   switch (this.value) {
     case "catCry":
-      image = '<img src="catCry.png"></img>';
+      image = '<img src="png/catCry.png"></img>';
       break;
     case "+":
-      image = '<img src="catAlpha.png"></img>';
+      image = '<img src="png/catAlpha.png"></img>';
       break;
       case "x":
-      image = '<img src="catAlpha.png"></img>';
+      image = '<img src="png/catAlpha.png"></img>';
       break;
       case "/":
-      image = '<img src="catAlpha.png"></img>';
+      image = '<img src="png/catAlpha.png"></img>';
       break;
       case "-":
-      image = '<img src="catAlpha.png"></img>';
+      image = '<img src="png/catAlpha.png"></img>';
       break;
     default:
-      image = '<img src="catSit.png"></img>';
+      image = '<img src="png/catSit.png"></img>';
   }
 
   document.getElementById("output-image").innerHTML = image;
